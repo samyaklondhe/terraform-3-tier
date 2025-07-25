@@ -32,7 +32,7 @@ variable "instance_type" {
 
 variable "key_name" {
   description = "SSH key pair name"
-  default     = "project"
+  default     = "YOUR-KEY-PAIR-NAME"
 }
 
 variable "db_username" {
