@@ -15,5 +15,5 @@ Design and deploy a 3-tier web application architecture on AWS using Terraform m
 ### Steps to Deploy
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/samyaklondhe/terraform-3-tier.git
    cd terraform-3-tier
